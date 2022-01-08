@@ -1,16 +1,28 @@
-### Hi there 👋
+# Lucas de Abreu
 
-<!--
-**Jornay/Jornay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! ☀
 
-Here are some ideas to get you started:
+### Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇧🇷 Sorocaba/SP, Brazil
+- 🦸‍♂️I am a working engineer
+- 👨‍💻I currently work in the backend area building APIs
+- ✈Always looking for new challenges!
+- 🌏I also like to travel
+
+My Linkedin!
+<br>
+<a href="https://www.linkedin.com/in/lucas-abreu-garcia/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="left" alt="LinkedIn"> 
+</a>
+
+<br>
+
+----
+
+  <summary align="left">GitHub Profile Stats 🧭</summary>
+   <div>
+    <a href="https://github.com/Jornay">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Jornay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jornay&layout=compact&hide=html&langs_count=16&theme=dracula"/>
+  <div>
